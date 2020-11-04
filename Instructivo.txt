@@ -1,0 +1,30 @@
+Manual de usuario del Sistema Informático de Contraloría Social
+
+El propósito de este manual es facilitar al usuario la operación de las diferentes pantallas de captura y consulta de la información que se administra en el Sistema Informático de Contraloría Social.
+
+1.- IMPLEMENTACIÓN DEL SISTEMA
+
+a) Requerimientos de hardware
+
+Contar con:
+– Computadora personal
+– Conexión a Internet
+
+b) Requerimientos de software
+
+Contar con:
+– Sistema Operativo Windows
+– Navegador de Internet (Internet Explorer, Firefox, Netscape u otro)
+– Permiso de acceso de parte de la Dirección General de Operación Regional y Contraloría Social (DGORCS) de la Secretaría de Función Pública.
+
+2.- INGRESANDO AL SISTEMA
+
+Dentro de su navegador, teclee la siguiente dirección electrónica:
+http://acceso.portaldeejemplo.gob.mx/sistema/
+Inmediatamente después, el sistema solicitará Usuario y Contraseña, datos que serán proporcionados por la DGORCS a los Enlaces de Contraloría Social.
+
+ 
+
+
+
+Fuente: https://www.ejemplos.co/10-ejemplos-de-textos-instructivos/#ixzz6cpaWML6X
